@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://adam-fox-york.github.io/iiif-collection-sample/annotations/282aa4a0be9b03531bbcd5f1c21d746d.json" ],
+  "@id" : "https://adam-fox-york.github.io/iiif-collection-sample/annotations/collection.json",
+  "label" : "All annotations loaded in adam-fox-york/iiif-collection-sample project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
