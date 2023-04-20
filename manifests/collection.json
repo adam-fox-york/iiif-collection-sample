@@ -1,0 +1,13 @@
+{
+  "id" : "https://adam-fox-york.github.io/iiif-collection-sample/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in adam-fox-york/iiif-collection-sample project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adam-fox-york.github.io/iiif-collection-sample/manifests/manifest_3.json",
+    "label" : "Silverband Mine Brake House and Aerial Ropeway"
+  } ]
+}
