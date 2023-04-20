@@ -72,6 +72,11 @@
         },
         "on" : "http://808478c6-3aab-4c7f-b2d3-dd56eae9cbbd"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://adam-fox-york.github.io/iiif-collection-sample/annotations/442e21bc01008a70e26f1c5d3f266bb9.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://be50b39d-301a-4724-9fc4-35167dd14e15",
@@ -123,6 +128,11 @@
           "width" : 6000
         },
         "on" : "http://1809c093-5a0e-44ba-b98e-59b1609844fc"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://adam-fox-york.github.io/iiif-collection-sample/annotations/282aa4a0be9b03531bbcd5f1c21d746d.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
