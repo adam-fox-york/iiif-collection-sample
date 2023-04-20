@@ -1,0 +1,157 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://adam-fox-york.github.io/iiif-collection-sample/manifests/manifest_3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Silverband Mine Brake House and Aerial Ropeway",
+  "metadata" : [ {
+    "label" : "Collection hosted:",
+    "value" : "<a href='https://archaeologydataservice.ac.uk/archives/view/1005165/'>Archaeology Data Service (ADS)</a>"
+  } ],
+  "description" : [ {
+    "@value" : "The Silverband Mine Brake House and Aerial Ropeway present an unusually well preserved example of mining history set within a rugged Cumbrian landscape. near Penrith.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Data copyright © Stantec UK unless otherwise stated",
+  "sequences" : [ {
+    "@id" : "http://8f89022f-012d-4e8e-8600-c9171bcce746",
+    "@type" : "sc:Sequence",
+    "viewingHint" : "individuals",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://08388084-a13b-4786-a379-1e824b6625fc",
+      "@type" : "sc:Canvas",
+      "label" : "Pylon 13 facing south",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e5477056-7af6-46ab-bbde-ee3de3661291",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/af_mine_006/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/af_mine_006",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://08388084-a13b-4786-a379-1e824b6625fc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://808478c6-3aab-4c7f-b2d3-dd56eae9cbbd",
+      "@type" : "sc:Canvas",
+      "label" : "View south during works, April 2022",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a43a38ce-fd29-4be6-a0e3-e0355dfb3123",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/af_mine_002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/af_mine_002",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://808478c6-3aab-4c7f-b2d3-dd56eae9cbbd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://be50b39d-301a-4724-9fc4-35167dd14e15",
+      "@type" : "sc:Canvas",
+      "label" : "Detail of sheaves, Pylon 12",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5e89485e-7541-4b31-9d01-78d79d6f5788",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/af_mine_003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/af_mine_003",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://be50b39d-301a-4724-9fc4-35167dd14e15"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1809c093-5a0e-44ba-b98e-59b1609844fc",
+      "@type" : "sc:Canvas",
+      "label" : "Pylon 12, facing west",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1c0cd2c2-80e7-47d5-b98d-872a7cacf0c6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/af_mine_004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/af_mine_004",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://1809c093-5a0e-44ba-b98e-59b1609844fc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5581b6c4-95cc-448d-9e03-d0daa7d17f5b",
+      "@type" : "sc:Canvas",
+      "label" : "Collapsed sheaves, Pylon 13",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://79a880a9-ff10-408c-9ac5-be1c1d441bed",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/af_mine_005/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/af_mine_005",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://5581b6c4-95cc-448d-9e03-d0daa7d17f5b"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
