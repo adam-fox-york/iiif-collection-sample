@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The <a href=\"https://www.stantec.com/uk\" target=\"_blank\" rel=\"noopener\">Stantec UK team carried out the heritage assessment in April 2022.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The <a href=\"https://www.stantec.com/uk\" target=\"_blank\" rel=\"noopener\">Stantec UK</a> team carried out the heritage assessment in <strong>April 2022</strong>.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/124888815",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-04-20T14:19:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682000365562",
+    "dcterms:modified" : "2023-04-20T14:19:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://adam-fox-york.github.io/iiif-collection-sample/manifests/manifest_3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1884,2172,1993,1253"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1883.84475,2171.51598h996.43379v0h996.43379v626.57078v626.57078h-996.43379h-996.43379v-626.57078z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3ff2d75e-aa90-402d-8971-0c202bb45fc6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#987e7e\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://808478c6-3aab-4c7f-b2d3-dd56eae9cbbd"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pylon 7, facing South",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Pylon 7</strong>, facing South</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/124888815",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-04-20T14:26:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682000772032",
+    "dcterms:modified" : "2023-04-20T14:26:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://adam-fox-york.github.io/iiif-collection-sample/manifests/manifest_3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5241,1937,596,443"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5240.51649,1937.1172h297.80365v0h297.80365v221.70015v221.70015h-297.80365h-297.80365v-221.70015z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_20dbbea9-f175-4c41-9ce8-75a97e1e1f91\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://808478c6-3aab-4c7f-b2d3-dd56eae9cbbd"
+    } ]
+  } ],
+  "@id" : "https://adam-fox-york.github.io/iiif-collection-sample/annotations/442e21bc01008a70e26f1c5d3f266bb9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
